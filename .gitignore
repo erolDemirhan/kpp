@@ -1,0 +1,15 @@
+.env
+backend/.env
+apps/mobile/.env
+.venv/
+__pycache__/
+*.pyc
+*.db
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+node_modules/
+.expo/
+dist/
+coverage/
+.DS_Store
